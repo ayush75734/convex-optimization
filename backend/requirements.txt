@@ -3,7 +3,7 @@ Flask-CORS==4.0.0
 CVXPY==1.4.3
 NumPy==1.26.0
 SciPy==1.14.0
-Pandas==2.1.0
+Pandas==2.2.0
 yfinance==0.2.32
 python-dotenv==1.0.0
 Gunicorn==21.2.0
